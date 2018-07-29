@@ -1,3 +1,3 @@
 # hello-world
-GitHub Tutorial
+GitHub Tutorial\n
 Hello, how does this work again?
